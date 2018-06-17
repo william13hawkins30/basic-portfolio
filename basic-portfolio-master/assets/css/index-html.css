@@ -1,0 +1,143 @@
+body{
+    background-color: beige
+}
+
+.header{
+    background-color: antiquewhite;
+    height: 50px;    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name{
+    background-color: #e8abd8;
+    height: 50px;
+    width: 200px;
+    float: left;
+    margin: 1px;
+    position: absolute;
+    /* font-family: -webkit-pictograph; */
+    text-align: center;
+    font-size: 50px;
+
+    
+}
+
+.box{
+    width: 960px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right{
+    
+    height: 50px;
+    width: 200px;
+    float: right;
+    font-size: 16px;
+    text-align: center;
+}
+
+.links{
+    float:right;
+    margin: 1px;
+    padding: 1px;
+}
+
+.footer{
+   background-color: black;
+   height: 50px;
+   text-align: center; 
+   bottom: 0;
+   width: 100%;
+}
+
+  .cr{
+      font-size:  14%;
+      font-family: 'Courier New', Courier, monospace;
+      color: azure;
+      
+  }
+
+.main{
+    width: 960px;
+    margin-bottom: 35px;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    border: 2px solid gray;
+   
+
+}
+.image{
+    margin: 25px;
+    height: 240px;
+    width: 200px;
+    float: left;
+
+}
+.am{
+    float: left;
+    margin: 10px;
+    padding: 6px;
+    height: 50px;
+    width: 960px;
+}
+.content{
+    margin: auto;
+    padding: 8px;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 40px;
+
+
+}
+.pictures{ 
+    margin: 25px;
+    height: 240px;
+    width: 200px;
+
+}
+
+.container{
+  /* Style inputs with type="text", select elements and textareas */
+ 
+    width: 100%; 
+    padding: 12px; 
+    border: 1px;  
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical; 
+    
+}
+
+.portfolio{
+    margin: 20px;
+    padding: 5px;
+    float: left;
+    height: 50px;
+    width: 960px;
+}
+
+.column1{
+        float: left;
+        width: 20%;
+}
+
+.fname{
+    float: left;
+}
+
+.lname{
+    float: left;
+}
+
+.country{
+    float: left;
+}
+
+
